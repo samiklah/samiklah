@@ -6,7 +6,6 @@
 
 ## 🙋‍♂️ About Me
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
 
 - 📫 How to reach me **samikla7@gmail.com**
 
